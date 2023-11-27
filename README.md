@@ -47,7 +47,7 @@
       alt="typescript"/>
   </a>
     <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/C%20programming-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white"
+    <img src="hhttps://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"
       alt="c"/>
   </a>
 </p>
