@@ -38,10 +38,6 @@
     <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"
       alt="javascript"/> 
   </a>
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="hhttps://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"
-      alt="html5"/> 
-  </a>
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
       alt="css3"/>
