@@ -7,12 +7,7 @@
 
 
 
-- 👯 I’m looking to collaborate on **Spring Framework**
-
-- 💬 Ask me about **System Designs and Philosophy 😆**
-
-- ⚡ Fun fact **Coding is a passion and not profession.**
-
+- 👯 I’m looking to collaborate
 
 ---
 
